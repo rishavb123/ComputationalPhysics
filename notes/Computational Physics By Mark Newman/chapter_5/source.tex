@@ -20,3 +20,15 @@
                  = h[\frac{1}{2}f(a) + \frac{1}{2}f(b) + \sum_{k=1}^{N-1}f(a + kh)]
             \end{align*}
             This is an \textit{extended trapezoidal rule}.
+        \subsection{Simpson's Rule}
+            Simpson's rule has a greater accuracy than the trapezoidal rule, but it is slightly more complex. It can achieve the same and higher accuracy as the trapezoidal rule with fewer steps. 
+            \newline \indent
+            Simpson's Rule uses involves using three points to estimate a curve using a quadratic through those points and then you can find the area under those curves and sum them for an integral approximation. 
+            \begin{center}
+                \includegraphics[width=200pt]{simpsons_rule.png}
+            \end{center}
+            If we call the spacing between adjacent points $h$. So for the purposes of the argument we will consider the points $x = -h$, $x = 0$, and $x = h$. If we fit a quadratic $Ax^2 + Bx + C$ to these points:
+            \begin{equation*}
+                f(-h) = Ah^2 - Bh + C, \qquad f(0) = C, \qquad f(h) = Ah^2 + Bh + C
+            \end{equation*}
+             
