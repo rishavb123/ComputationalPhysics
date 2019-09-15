@@ -10,4 +10,4 @@ def accuracy(my_ans, correct_ans):
 
 if __name__ == "__main__":
     q = integrate(f, 0, 2, 10)
-    print("The integral is", q, "with", accuracy(q, 4.4) * 100, "percent accuracy")
+    print("The integral is", q, "with", accuracy(q, 4.4) * 100, "percent error")

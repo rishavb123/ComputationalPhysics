@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1568207260 "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.tex" "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.pdf" "notes" 1568207268
+["pdflatex"] 1568565281 "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.tex" "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.pdf" "notes" 1568565284
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -50,17 +50,17 @@
   "C:/Program Files/MiKTeX 2.9/tex/latex/physics/physics.sty" 1356002062 29610 a9597219b282d9c78b02393dcd7d4322 ""
   "C:/Users/Bhagat/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1566795534 4235387 ec42591dc0895adec17710054cbe7795 ""
   "C:/Users/Bhagat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1566795527 83779 e71ee75ff93fc04ad0084bef16b98711 ""
-  "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.aux" 1568207267 554 25593cd2ef96fc094554ac773a79e267 "pdflatex"
+  "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.aux" 1568565284 554 25593cd2ef96fc094554ac773a79e267 "pdflatex"
   "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.tex" 1568032988 165 06d69a48c21d8d6ce7cd699e11c55ce5 ""
   "integral_approx.png" 1568033154 65025 c3f32b2b0b6e54e449218993d273c678 ""
-  "notes.aux" 1568207267 554 25593cd2ef96fc094554ac773a79e267 "pdflatex"
+  "notes.aux" 1568565284 554 25593cd2ef96fc094554ac773a79e267 "pdflatex"
   "notes.tex" 1568032988 165 06d69a48c21d8d6ce7cd699e11c55ce5 ""
   "simpsons_rule.png" 1568206500 46597 97a7a6a7e6629b86badbbf33afad9f11 ""
-  "source.tex" 1568207254 2429 26311683f48edcdb90d6e6311e5abb84 ""
+  "source.tex" 1568565279 3974 adae70103fd67dc4842efd637cbcc3b7 ""
   (generated)
-  "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.pdf"
-  "notes.pdf"
-  "notes.log"
-  "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.aux"
   "notes.aux"
+  "notes.pdf"
   "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.log"
+  "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.aux"
+  "c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.pdf"
+  "notes.log"

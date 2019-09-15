@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.26)  11 SEP 2019 09:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.26)  15 SEP 2019 12:34
 entering extended mode
 **"c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.tex"
 ("c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/notes.tex"
@@ -335,19 +335,19 @@ File: simpsons_rule.png Graphic file (type png)
 <use simpsons_rule.png>
 Package pdftex.def Info: simpsons_rule.png  used on input line 28.
 (pdftex.def)             Requested size: 200.0pt x 179.60542pt.
-) [2 <c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/simpsons_rule.png>] ("c:/Projects\LatexProjects\ComputationalPhysics\notes\Computational Physics By Mark Newman\chapter_5\notes.aux") ) 
+ [2 <c:/Projects/LatexProjects/ComputationalPhysics/notes/Computational Physics By Mark Newman/chapter_5/simpsons_rule.png>]) [3] ("c:/Projects\LatexProjects\ComputationalPhysics\notes\Computational Physics By Mark Newman\chapter_5\notes.aux") ) 
 Here is how much of TeX's memory you used:
  12659 strings out of 492895
  233471 string characters out of 3133476
- 268418 words of memory out of 3000000
+ 269418 words of memory out of 3000000
  16546 multiletter control sequences out of 15000+200000
  535614 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,8n,65p,451b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,8n,65p,496b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:/Projects\LatexProjects\ComputationalPhysics\notes\Computational Physics By Mark Newman\chapter_5\notes.pdf" (2 pages, 201376 bytes).
+Output written on "c:/Projects\LatexProjects\ComputationalPhysics\notes\Computational Physics By Mark Newman\chapter_5\notes.pdf" (3 pages, 206994 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
