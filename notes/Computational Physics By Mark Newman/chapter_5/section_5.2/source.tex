@@ -1,2 +1,15 @@
 \section{Errors on Integrals}
-    Test
+    Since our numerical integrals are only approximations, the largest source of error is \textit{approximation error}. Consider the integral $\int_a^b f(x) dx$. Let $x_k = a + kh$. These are called \textit{sample points}. Consider a slice of the integral (for the trapezoidal rule), one that falls between $x_{k-1}$ and $x_k$, and let us perform a Taylor expansion of $f(x)$ about $x_{k-1}$:
+    \begin{equation*}
+        f(x) = f(x_{k-1}) + (x - x_{k-1})f'(x_{k-1}) + \frac{1}{2}(x - x_{k-1})^2f''(x_{k-1}) + \dots
+    \end{equation*}
+    By integration
+    \begin{align*}
+        \int_{x_{k-1}}^{x_k} f(x) dx = f(x_{k-1})\int_{x_{k-1}}^{x_k}dx + f'(x_{k-1})\int_{x_{k-1}}^{x_k}(x - x_{k-1})dx \\
+         + \frac{1}{2}f''(x_{k-1})\int_{x_{k-1}}^{x_k}(x - x_{k-1})^2dx + \dots
+    \end{align*}
+    By $u$ substitution with $u = x - x_{k-1}$. All integrals integral from 0 to $h$, which is the width of the slice. 
+    \begin{equation*}
+        \int_{x_{k-1}}^{x_k} f(x) dx = hf(x_{k-1}) + \frac{1}{2}h^2f'(x_{k-1}) + \frac{1}{6}h^3f''(x_{k-1}) + O(h^4)
+    \end{equation*}
+    where $O(h^4)$ denotes the rest of the terms, which we neglect.
